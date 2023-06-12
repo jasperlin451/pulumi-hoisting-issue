@@ -1,0 +1,8 @@
+{
+  "name": "pulumi-hoisting-issue",
+  "version": "1.0.0",
+  "description": "root",
+  "workspaces": ["packages/*"],
+  "author": "",
+  "license": "ISC"
+}

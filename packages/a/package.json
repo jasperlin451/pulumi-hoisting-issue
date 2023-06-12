@@ -1,0 +1,9 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+      "@opentelemetry/instrumentation": "^0.40.0"
+  },
+  "license": "ISC"
+}

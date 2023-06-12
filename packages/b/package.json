@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@pulumi/pulumi": "^3.71.0",
+    "ts-node": "^8.6.2"
+  },
+  "license": "ISC"
+}
